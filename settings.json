@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "karmasmp.ddns.net",
-    "port": ,25565,
+    "port": "25565" ,
     "version": "1.21.1"
   },
   "position": {
